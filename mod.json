@@ -25,7 +25,7 @@
             { "Reputation" : "ALLIED", "RollupMultiComponent" : 30, "RollupMultiMech" : 200, "HoldbackTrigger" : 1, "HoldbackValueCapMulti" : 2 },
         ],
         "Holdback" : {
-            "Enabled" : true,
+            "Enabled" : false,
             "MechParts" : [ 2, 6 ],
             "ReputationRange" : [ 2, 6 ],
             "DisputePicks" : [ 1, 6 ],
